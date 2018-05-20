@@ -1,0 +1,29 @@
+.alignname{
+	margin-right:50px;
+}
+.textbox{
+	width:50%;
+	height:40px;
+	padding-left: 10px;
+
+}
+.nampos{
+	margin-left:30px;
+	padding:10px;
+}
+.formpos{
+	margin-bottom: 30px;
+	margin-left: 30px;
+	margin-right:20px;
+}
+.warning{
+	color: red;
+}
+.backgroundimg{
+	background-image: url('/asset/bg/mhs.png');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.formlayout{
+	padding-top: 40vh;
+}

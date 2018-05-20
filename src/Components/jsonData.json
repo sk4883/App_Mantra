@@ -1,0 +1,38 @@
+[
+{
+	"driver_nAme":"zzz",
+	"car_model": "silver sedan",
+	"car_type": "share",
+	"car_no":"cc",
+	"price": "$10",
+	"path": "./asset/car.svg"
+},
+{
+	
+	"driver_nAme":"zzz",
+	"car_model": "alto",
+	"car_type": "Micro",
+	"car_no":"bb",
+	"price": "$12",
+	"path": "./asset/fortuner.svg"
+},
+{
+	
+	"driver_nAme":"zzz",
+	"car_model": "Indigo",
+	"car_type": "mini",
+	"car_no":"aa",
+	"price": "$15",
+	"path": "./asset/jeep.svg"
+},
+{
+	
+	"driver_nAme":"zzz",
+	"car_model": "BMW",
+	"car_type": "premium",
+	"car_no":"vv",
+	"price": "$100",
+	"path": "./asset/premiem.svg"
+}
+
+]
